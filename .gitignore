@@ -1,0 +1,4 @@
+!index.js
+.env
+!.env.example
+node_modules
